@@ -1,0 +1,379 @@
+SCHOOL_YEAR,AGENCY_TYPE,CESA,COUNTY,DISTRICT_CODE,SCHOOL_CODE,GRADE_GROUP,CHARTER_IND,DISTRICT_NAME,SCHOOL_NAME,TEST_SUBJECT,TEST_RESULT,GROUP_BY,GROUP_BY_VALUE,STUDENT_COUNT,AVERAGE_SCORE,GROUP_COUNT
+2013-14,School District,10,Clark,7,,[All],No,Abbotsford,[Districtwide],Composite,Not benchmarked,All Students,All Students,21,20.14,21
+2013-14,School District,5,Adams,14,,[All],No,Adams-Friendship Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,60,18.93,60
+2013-14,School District,2,Green,63,,[All],No,Albany,[Districtwide],Composite,Not benchmarked,All Students,All Students,9,21,9
+2013-14,School District,7,Kewaunee,70,,[All],No,Algoma,[Districtwide],Composite,Not benchmarked,All Students,All Students,22,22.82,22
+2013-14,School District,4,Buffalo,84,,[All],No,Alma,[Districtwide],Composite,Not benchmarked,All Students,All Students,12,22.58,12
+2013-14,School District,4,Jackson,91,,[All],No,Alma Center,[Districtwide],Composite,Not benchmarked,All Students,All Students,22,21.55,22
+2013-14,School District,5,Portage,105,,[All],No,Almond-Bancroft,[Districtwide],Composite,Not benchmarked,All Students,All Students,19,22.05,19
+2013-14,School District,10,Eau Claire,112,,[All],No,Altoona,[Districtwide],Composite,Not benchmarked,All Students,All Students,77,23.55,77
+2013-14,School District,11,Polk,119,,[All],No,Amery,[Districtwide],Composite,Not benchmarked,All Students,All Students,95,22.14,95
+2013-14,School District,9,Langlade,140,,[All],No,Antigo Unified,[Districtwide],Composite,Not benchmarked,All Students,All Students,106,22.16,106
+2013-14,School District,6,Outagamie,147,,[All],No,Appleton Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,714,23.3,714
+2013-14,School District,4,Trempealeau,154,,[All],No,Arcadia,[Districtwide],Composite,Not benchmarked,All Students,All Students,53,22.08,53
+2013-14,School District,3,Lafayette,161,,[All],No,Argyle,[Districtwide],Composite,Not benchmarked,All Students,All Students,14,22.64,14
+2013-14,School District,1,Waukesha,2450,,[All],No,Arrowhead UHS,[Districtwide],Composite,Not benchmarked,All Students,All Students,472,24.75,472
+2013-14,School District,12,Ashland,170,,[All],No,Ashland,[Districtwide],Composite,Not benchmarked,All Students,All Students,99,21.82,99
+2013-14,School District,7,Brown,182,,[All],No,Ashwaubenon,[Districtwide],Composite,Not benchmarked,All Students,All Students,160,23.59,160
+2013-14,School District,9,Marathon,196,,[All],No,Athens,[Districtwide],Composite,Not benchmarked,All Students,All Students,25,22.56,25
+2013-14,School District,5,Wood,203,,[All],No,Auburndale,[Districtwide],Composite,Not benchmarked,All Students,All Students,38,21.74,38
+2013-14,School District,10,Eau Claire,217,,[All],No,Augusta,[Districtwide],Composite,Not benchmarked,All Students,All Students,21,20.48,21
+2013-14,School District,11,Saint Croix,231,,[All],No,Baldwin-Woodville Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,79,22.14,79
+2013-14,School District,4,La Crosse,245,,[All],No,Bangor,[Districtwide],Composite,Not benchmarked,All Students,All Students,24,22.33,24
+2013-14,School District,5,Sauk,280,,[All],No,Baraboo,[Districtwide],Composite,Not benchmarked,All Students,All Students,140,22.31,140
+2013-14,School District,3,Iowa,287,,[All],No,Barneveld,[Districtwide],Composite,Not benchmarked,All Students,All Students,24,21.33,24
+2013-14,School District,11,Barron,308,,[All],No,Barron Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,54,20.54,54
+2013-14,School District,12,Bayfield,315,,[All],No,Bayfield,[Districtwide],Composite,Not benchmarked,All Students,All Students,15,20.27,15
+2013-14,School District,6,Dodge,336,,[All],No,Beaver Dam Unified,[Districtwide],Composite,Not benchmarked,All Students,All Students,121,22.87,121
+2013-14,School District,8,Marinette,4263,,[All],No,Beecher-Dunbar-Pembine,[Districtwide],Composite,Not benchmarked,All Students,All Students,10,21.3,10
+2013-14,School District,2,Dane,350,,[All],No,Belleville,[Districtwide],Composite,Not benchmarked,All Students,All Students,45,23.4,45
+2013-14,School District,3,Lafayette,364,,[All],No,Belmont Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,10,20,10
+2013-14,School District,2,Rock,413,,[All],No,Beloit,[Districtwide],Composite,Not benchmarked,All Students,All Students,199,19.57,199
+2013-14,School District,2,Rock,422,,[All],No,Beloit Turner,[Districtwide],Composite,Not benchmarked,All Students,All Students,59,22.39,59
+2013-14,School District,3,Lafayette,427,,[All],No,Benton,[Districtwide],Composite,Not benchmarked,All Students,All Students,14,22.43,14
+2013-14,School District,6,Green Lake,434,,[All],No,Berlin Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,57,21.58,57
+2013-14,School District,2,Walworth,6013,,[All],No,Big Foot UHS,[Districtwide],Composite,Not benchmarked,All Students,All Students,85,22.09,85
+2013-14,School District,11,Washburn,441,,[All],No,Birchwood,[Districtwide],Composite,Not benchmarked,All Students,All Students,15,22.13,15
+2013-14,School District,3,Lafayette,2240,,[All],No,Black Hawk,[Districtwide],Composite,Not benchmarked,All Students,All Students,23,21,23
+2013-14,School District,4,Jackson,476,,[All],No,Black River Falls,[Districtwide],Composite,Not benchmarked,All Students,All Students,69,21.65,69
+2013-14,School District,4,Trempealeau,485,,[All],No,Blair-Taylor,[Districtwide],Composite,Not benchmarked,All Students,All Students,25,22.2,25
+2013-14,School District,10,Chippewa,497,,[All],No,Bloomer,[Districtwide],Composite,Not benchmarked,All Students,All Students,48,22.33,48
+2013-14,School District,8,Shawano,602,,[All],No,Bonduel,[Districtwide],Composite,Not benchmarked,All Students,All Students,34,22.41,34
+2013-14,School District,3,Grant,609,,[All],No,Boscobel Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,32,21.19,32
+2013-14,School District,8,Shawano,623,,[All],No,Bowler,[Districtwide],Composite,Not benchmarked,All Students,All Students,8,20,8
+2013-14,School District,11,Dunn,637,,[All],No,Boyceville Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,24,22.54,24
+2013-14,School District,7,Calumet,658,,[All],No,Brillion,[Districtwide],Composite,Not benchmarked,All Students,All Students,52,22.94,52
+2013-14,School District,2,Green,700,,[All],No,Brodhead,[Districtwide],Composite,Not benchmarked,All Students,All Students,43,21.19,43
+2013-14,School District,1,Milwaukee,721,,[All],No,Brown Deer,[Districtwide],Composite,Not benchmarked,All Students,All Students,99,19.76,99
+2013-14,School District,10,Rusk,735,,[All],No,Bruce,[Districtwide],Composite,Not benchmarked,All Students,All Students,22,20.5,22
+2013-14,School District,2,Racine,777,,[All],No,Burlington Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,169,22.3,169
+2013-14,School District,12,Ashland,840,,[All],No,Butternut,[Districtwide],Composite,*,All Students,[Data Suppressed],*,*,*
+2013-14,School District,10,Chippewa,870,,[All],No,Cadott Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,24,24.21,24
+2013-14,School District,5,Columbia,882,,[All],No,Cambria-Friesland,[Districtwide],Composite,Not benchmarked,All Students,All Students,14,20.21,14
+2013-14,School District,2,Dane,896,,[All],No,Cambridge,[Districtwide],Composite,Not benchmarked,All Students,All Students,49,22.27,49
+2013-14,School District,11,Barron,903,,[All],No,Cameron,[Districtwide],Composite,Not benchmarked,All Students,All Students,47,21.49,47
+2013-14,School District,6,Fond du Lac,910,,[All],No,Campbellsport,[Districtwide],Composite,Not benchmarked,All Students,All Students,66,21.67,66
+2013-14,School District,4,Monroe,980,,[All],No,Cashton,[Districtwide],Composite,Not benchmarked,All Students,All Students,23,22.48,23
+2013-14,School District,3,Grant,994,,[All],No,Cassville,[Districtwide],Composite,Not benchmarked,All Students,All Students,9,22.89,9
+2013-14,School District,7,Sheboygan,1029,,[All],No,Cedar Grove-Belgium Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,53,22.7,53
+2013-14,School District,1,Ozaukee,1015,,[All],No,Cedarburg,[Districtwide],Composite,Not benchmarked,All Students,All Students,241,25.27,241
+2013-14,School District,2,Kenosha,5054,,[All],No,Central/Westosha UHS,[Districtwide],Composite,Not benchmarked,All Students,All Students,207,22.92,207
+2013-14,School District,12,Price,1071,,[All],No,Chequamegon,[Districtwide],Composite,Not benchmarked,All Students,All Students,32,22.28,32
+2013-14,School District,11,Barron,1080,,[All],No,Chetek-Weyerhaeuser Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,48,22.21,48
+2013-14,School District,7,Calumet,1085,,[All],No,Chilton,[Districtwide],Composite,Not benchmarked,All Students,All Students,59,23.07,59
+2013-14,School District,10,Chippewa,1092,,[All],No,Chippewa Falls Area Unified,[Districtwide],Composite,Not benchmarked,All Students,All Students,196,22.92,196
+2013-14,School District,11,Polk,1120,,[All],No,Clayton,[Districtwide],Composite,Not benchmarked,All Students,All Students,15,21.87,15
+2013-14,School District,11,Polk,1127,,[All],No,Clear Lake,[Districtwide],Composite,Not benchmarked,All Students,All Students,17,20.88,17
+2013-14,School District,2,Rock,1134,,[All],No,Clinton Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,58,22.22,58
+2013-14,School District,8,Waupaca,1141,,[All],No,Clintonville,[Districtwide],Composite,Not benchmarked,All Students,All Students,50,22.04,50
+2013-14,School District,4,Buffalo,1155,,[All],No,Cochrane-Fountain City,[Districtwide],Composite,Not benchmarked,All Students,All Students,32,22.59,32
+2013-14,School District,10,Clark,1162,,[All],No,Colby,[Districtwide],Composite,Not benchmarked,All Students,All Students,47,22.96,47
+2013-14,School District,8,Marinette,1169,,[All],No,Coleman,[Districtwide],Composite,Not benchmarked,All Students,All Students,31,20.84,31
+2013-14,School District,11,Dunn,1176,,[All],No,Colfax,[Districtwide],Composite,Not benchmarked,All Students,All Students,31,22.52,31
+2013-14,School District,5,Columbia,1183,,[All],No,Columbus,[Districtwide],Composite,Not benchmarked,All Students,All Students,71,22.96,71
+2013-14,School District,10,Chippewa,1204,,[All],No,Cornell,[Districtwide],Composite,Not benchmarked,All Students,All Students,17,21.41,17
+2013-14,School District,8,Forest,1218,,[All],No,Crandon,[Districtwide],Composite,Not benchmarked,All Students,All Students,25,20.16,25
+2013-14,School District,8,Marinette,1232,,[All],No,Crivitz,[Districtwide],Composite,Not benchmarked,All Students,All Students,20,22.4,20
+2013-14,School District,3,Grant,1246,,[All],No,Cuba City,[Districtwide],Composite,Not benchmarked,All Students,All Students,33,22.15,33
+2013-14,School District,1,Milwaukee,1253,,[All],No,Cudahy,[Districtwide],Composite,Not benchmarked,All Students,All Students,84,20.15,84
+2013-14,School District,11,Barron,1260,,[All],No,Cumberland,[Districtwide],Composite,Not benchmarked,All Students,All Students,44,22.43,44
+2013-14,School District,9,Marathon,4970,,[All],No,D C Everest Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,312,22.82,312
+2013-14,School District,3,Lafayette,1295,,[All],No,Darlington Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,37,21.54,37
+2013-14,School District,2,Dane,1316,,[All],No,De Forest Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,159,23.6,159
+2013-14,School District,7,Brown,1414,,[All],No,De Pere,[Districtwide],Composite,Not benchmarked,All Students,All Students,232,23.67,232
+2013-14,School District,4,Vernon,1421,,[All],No,De Soto Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,32,21.78,32
+2013-14,School District,2,Dane,1309,,[All],No,Deerfield Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,55,23.27,55
+2013-14,School District,2,Walworth,1380,,[All],No,Delavan-Darien,[Districtwide],Composite,Not benchmarked,All Students,All Students,121,19.92,121
+2013-14,School District,7,Brown,1407,,[All],No,Denmark,[Districtwide],Composite,Not benchmarked,All Students,All Students,72,21.36,72
+2013-14,School District,6,Dodge,2744,,[All],No,Dodgeland,[Districtwide],Composite,Not benchmarked,All Students,All Students,31,22.42,31
+2013-14,School District,3,Iowa,1428,,[All],No,Dodgeville,[Districtwide],Composite,Not benchmarked,All Students,All Students,84,23.67,84
+2013-14,School District,12,Bayfield,1491,,[All],No,Drummond Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,19,22.89,19
+2013-14,School District,11,Pepin,1499,,[All],No,Durand,[Districtwide],Composite,Not benchmarked,All Students,All Students,46,24.24,46
+2013-14,School District,2,Walworth,1540,,[All],No,East Troy Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,89,22.69,89
+2013-14,School District,10,Eau Claire,1554,,[All],No,Eau Claire Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,465,23.01,465
+2013-14,School District,9,Marathon,1561,,[All],No,Edgar,[Districtwide],Composite,Not benchmarked,All Students,All Students,35,21.49,35
+2013-14,School District,2,Rock,1568,,[All],No,Edgerton,[Districtwide],Composite,Not benchmarked,All Students,All Students,65,22.31,65
+2013-14,School District,9,Langlade,1582,,[All],No,Elcho,[Districtwide],Composite,Not benchmarked,All Students,All Students,13,19.31,13
+2013-14,School District,10,Trempealeau,1600,,[All],No,Eleva-Strum,[Districtwide],Composite,Not benchmarked,All Students,All Students,22,21.86,22
+2013-14,School District,11,Dunn,1645,,[All],No,Elk Mound Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,56,22.48,56
+2013-14,School District,7,Sheboygan,1631,,[All],No,Elkhart Lake-Glenbeulah,[Districtwide],Composite,Not benchmarked,All Students,All Students,22,23.73,22
+2013-14,School District,2,Walworth,1638,,[All],No,Elkhorn Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,129,21.79,129
+2013-14,School District,11,Pierce,1659,,[All],No,Ellsworth Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,95,21.89,95
+2013-14,School District,1,Waukesha,714,,[All],No,Elmbrook,[Districtwide],Composite,Not benchmarked,All Students,All Students,570,24.96,570
+2013-14,School District,11,Pierce,1666,,[All],No,Elmwood,[Districtwide],Composite,Not benchmarked,All Students,All Students,19,20.95,19
+2013-14,School District,2,Rock,1694,,[All],No,Evansville Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,64,21.72,64
+2013-14,School District,10,Eau Claire,1729,,[All],No,Fall Creek,[Districtwide],Composite,Not benchmarked,All Students,All Students,44,22.16,44
+2013-14,School District,5,Columbia,1736,,[All],No,Fall River,[Districtwide],Composite,Not benchmarked,All Students,All Students,28,21.68,28
+2013-14,School District,3,Grant,1813,,[All],No,Fennimore Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,29,21.69,29
+2013-14,School District,10,Rusk,5757,,[All],No,Flambeau,[Districtwide],Composite,Not benchmarked,All Students,All Students,21,21.24,21
+2013-14,School District,8,Florence,1855,,[All],No,Florence County,[Districtwide],Composite,Not benchmarked,All Students,All Students,23,19.65,23
+2013-14,School District,6,Fond du Lac,1862,,[All],No,Fond du Lac,[Districtwide],Composite,Not benchmarked,All Students,All Students,233,22.52,233
+2013-14,School District,2,Jefferson,1883,,[All],No,Fort Atkinson,[Districtwide],Composite,Not benchmarked,All Students,All Students,142,23.15,142
+2013-14,School District,1,Milwaukee,1900,,[All],No,Franklin Public,[Districtwide],Composite,Not benchmarked,All Students,All Students,308,23.51,308
+2013-14,School District,11,Polk,1939,,[All],No,Frederic,[Districtwide],Composite,Not benchmarked,All Students,All Students,20,21.2,20
+2013-14,School District,6,Outagamie,1953,,[All],No,Freedom Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,76,23.03,76
+2013-14,School District,4,Trempealeau,2009,,[All],No,Galesville-Ettrick-Trempealeau,[Districtwide],Composite,Not benchmarked,All Students,All Students,52,21.96,52
+2013-14,School District,1,Washington,2058,,[All],No,Germantown,[Districtwide],Composite,Not benchmarked,All Students,All Students,286,23.22,286
+2013-14,School District,7,Door,2114,,[All],No,Gibraltar Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,35,22.14,35
+2013-14,School District,8,Oconto,2128,,[All],No,Gillett,[Districtwide],Composite,Not benchmarked,All Students,All Students,29,21.24,29
+2013-14,School District,10,Taylor,2135,,[All],No,Gilman,[Districtwide],Composite,Not benchmarked,All Students,All Students,12,21.33,12
+2013-14,School District,10,Buffalo,2142,,[All],No,Gilmanton,[Districtwide],Composite,Not benchmarked,All Students,All Students,7,24.29,7
+2013-14,School District,11,Saint Croix,2198,,[All],No,Glenwood City,[Districtwide],Composite,Not benchmarked,All Students,All Students,25,22.56,25
+2013-14,School District,8,Marinette,2212,,[All],No,Goodman-Armstrong Creek,[Districtwide],Composite,*,All Students,[Data Suppressed],*,*,*
+2013-14,School District,1,Ozaukee,2217,,[All],No,Grafton,[Districtwide],Composite,Not benchmarked,All Students,All Students,125,23.92,125
+2013-14,School District,10,Clark,2226,,[All],No,Granton Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,10,23.4,10
+2013-14,School District,11,Burnett,2233,,[All],No,Grantsburg,[Districtwide],Composite,Not benchmarked,All Students,All Students,44,21.52,44
+2013-14,School District,7,Brown,2289,,[All],No,Green Bay Area Public,[Districtwide],Composite,Not benchmarked,All Students,All Students,732,21.89,732
+2013-14,School District,6,Green Lake,2310,,[All],No,Green Lake,[Districtwide],Composite,Not benchmarked,All Students,All Students,17,23.12,17
+2013-14,School District,1,Milwaukee,2296,,[All],No,Greendale,[Districtwide],Composite,Not benchmarked,All Students,All Students,202,23.92,202
+2013-14,School District,1,Milwaukee,2303,,[All],No,Greenfield,[Districtwide],Composite,Not benchmarked,All Students,All Students,207,21.19,207
+2013-14,School District,10,Clark,2394,,[All],No,Greenwood,[Districtwide],Composite,Not benchmarked,All Students,All Students,21,23.1,21
+2013-14,School District,8,Shawano,2415,,[All],No,Gresham,[Districtwide],Composite,Not benchmarked,All Students,All Students,8,19.63,8
+2013-14,School District,1,Waukesha,2420,,[All],No,Hamilton,[Districtwide],Composite,Not benchmarked,All Students,All Students,266,24.05,266
+2013-14,School District,6,Washington,2436,,[All],No,Hartford UHS,[Districtwide],Composite,Not benchmarked,All Students,All Students,247,23.1,247
+2013-14,School District,12,Sawyer,2478,,[All],No,Hayward Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,75,21.89,75
+2013-14,School District,3,Iowa,2527,,[All],No,Highland,[Districtwide],Composite,Not benchmarked,All Students,All Students,16,20.94,16
+2013-14,School District,7,Calumet,2534,,[All],No,Hilbert,[Districtwide],Composite,Not benchmarked,All Students,All Students,24,21.92,24
+2013-14,School District,4,Vernon,2541,,[All],No,Hillsboro,[Districtwide],Composite,Not benchmarked,All Students,All Students,23,21.96,23
+2013-14,School District,4,La Crosse,2562,,[All],No,Holmen,[Districtwide],Composite,Not benchmarked,All Students,All Students,161,22.58,161
+2013-14,School District,6,Dodge,2576,,[All],No,Horicon,[Districtwide],Composite,Not benchmarked,All Students,All Students,33,21.88,33
+2013-14,School District,6,Outagamie,2583,,[All],No,Hortonville Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,164,23.13,164
+2013-14,School District,7,Brown,2604,,[All],No,Howard-Suamico,[Districtwide],Composite,Not benchmarked,All Students,All Students,307,23.8,307
+2013-14,School District,7,Sheboygan,2605,,[All],No,Howards Grove,[Districtwide],Composite,Not benchmarked,All Students,All Students,50,21.92,50
+2013-14,School District,11,Saint Croix,2611,,[All],No,Hudson,[Districtwide],Composite,Not benchmarked,All Students,All Students,329,23.76,329
+2013-14,School District,12,Iron,2618,,[All],No,Hurley,[Districtwide],Composite,Not benchmarked,All Students,All Students,29,20.55,29
+2013-14,School District,6,Dodge,2625,,[All],No,Hustisford,[Districtwide],Composite,Not benchmarked,All Students,All Students,18,19.89,18
+2013-14,School District,4,Trempealeau,2632,,[All],No,Independence,[Districtwide],Composite,Not benchmarked,All Students,All Students,15,20.47,15
+2013-14,School District,5,Waupaca,2639,,[All],No,Iola-Scandinavia,[Districtwide],Composite,Not benchmarked,All Students,All Students,34,22.26,34
+2013-14,School District,3,Iowa,2646,,[All],No,Iowa-Grant,[Districtwide],Composite,Not benchmarked,All Students,All Students,36,22.03,36
+2013-14,School District,3,Richland,2660,,[All],No,Ithaca,[Districtwide],Composite,Not benchmarked,All Students,All Students,14,20.79,14
+2013-14,School District,2,Rock,2695,,[All],No,Janesville,[Districtwide],Composite,Not benchmarked,All Students,All Students,462,21.68,462
+2013-14,School District,2,Jefferson,2702,,[All],No,Jefferson,[Districtwide],Composite,Not benchmarked,All Students,All Students,90,22.1,90
+2013-14,School District,2,Jefferson,2730,,[All],No,Johnson Creek,[Districtwide],Composite,Not benchmarked,All Students,All Students,27,20.56,27
+2013-14,School District,2,Green,2737,,[All],No,Juda,[Districtwide],Composite,Not benchmarked,All Students,All Students,20,22.6,20
+2013-14,School District,6,Outagamie,2758,,[All],No,Kaukauna Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,183,22.26,183
+2013-14,School District,1,Kenosha,2793,,[All],No,Kenosha,[Districtwide],Composite,Not benchmarked,All Students,All Students,932,21.27,932
+2013-14,School District,1,Waukesha,1376,,[All],No,Kettle Moraine,[Districtwide],Composite,Not benchmarked,All Students,All Students,338,23.21,338
+2013-14,School District,6,Washington,2800,,[All],No,Kewaskum,[Districtwide],Composite,Not benchmarked,All Students,All Students,72,21.96,72
+2013-14,School District,7,Kewaunee,2814,,[All],No,Kewaunee,[Districtwide],Composite,Not benchmarked,All Students,All Students,41,22.93,41
+2013-14,School District,3,Vernon,5960,,[All],No,Kickapoo Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,23,21.17,23
+2013-14,School District,7,Manitowoc,2828,,[All],No,Kiel Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,70,23.16,70
+2013-14,School District,6,Outagamie,2835,,[All],No,Kimberly Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,241,22.79,241
+2013-14,School District,7,Sheboygan,2842,,[All],No,Kohler,[Districtwide],Composite,Not benchmarked,All Students,All Students,37,25.08,37
+2013-14,School District,4,La Crosse,2849,,[All],No,La Crosse,[Districtwide],Composite,Not benchmarked,All Students,All Students,309,22.8,309
+2013-14,School District,4,Vernon,2863,,[All],No,La Farge,[Districtwide],Composite,Not benchmarked,All Students,All Students,10,20.7,10
+2013-14,School District,10,Rusk,2856,,[All],No,Ladysmith,[Districtwide],Composite,Not benchmarked,All Students,All Students,37,21.89,37
+2013-14,School District,2,Walworth,2884,,[All],No,Lake Geneva-Genoa City UHS,[Districtwide],Composite,Not benchmarked,All Students,All Students,231,22.9,231
+2013-14,School District,10,Chippewa,2891,,[All],No,Lake Holcombe,[Districtwide],Composite,Not benchmarked,All Students,All Students,10,22.4,10
+2013-14,School District,2,Jefferson,2898,,[All],No,Lake Mills Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,70,22.74,70
+2013-14,School District,9,Oneida,3647,,[All],No,Lakeland UHS,[Districtwide],Composite,Not benchmarked,All Students,All Students,113,22.6,113
+2013-14,School District,3,Grant,2912,,[All],No,Lancaster Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,38,21.84,38
+2013-14,School District,8,Forest,2940,,[All],No,Laona,[Districtwide],Composite,*,All Students,[Data Suppressed],*,*,*
+2013-14,School District,8,Oconto,2961,,[All],No,Lena,[Districtwide],Composite,Not benchmarked,All Students,All Students,11,22.64,11
+2013-14,School District,6,Outagamie,3129,,[All],No,Little Chute Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,99,22.38,99
+2013-14,School District,5,Columbia,3150,,[All],No,Lodi,[Districtwide],Composite,Not benchmarked,All Students,All Students,83,23.39,83
+2013-14,School District,6,Dodge,3171,,[All],No,Lomira,[Districtwide],Composite,Not benchmarked,All Students,All Students,64,22.23,64
+2013-14,School District,10,Clark,3206,,[All],No,Loyal,[Districtwide],Composite,Not benchmarked,All Students,All Students,23,23.91,23
+2013-14,School District,11,Polk,3213,,[All],No,Luck,[Districtwide],Composite,Not benchmarked,All Students,All Students,20,22.3,20
+2013-14,School District,7,Kewaunee,3220,,[All],No,Luxemburg-Casco,[Districtwide],Composite,Not benchmarked,All Students,All Students,87,22.78,87
+2013-14,School District,2,Dane,3269,,[All],No,Madison Metropolitan,[Districtwide],Composite,Not benchmarked,All Students,All Students,1504,21.72,1504
+2013-14,School District,6,Waupaca,3276,,[All],No,Manawa,[Districtwide],Composite,Not benchmarked,All Students,All Students,23,22.74,23
+2013-14,School District,7,Manitowoc,3290,,[All],No,Manitowoc,[Districtwide],Composite,Not benchmarked,All Students,All Students,201,21.4,201
+2013-14,School District,12,Douglas,3297,,[All],No,Maple,[Districtwide],Composite,Not benchmarked,All Students,All Students,56,21.57,56
+2013-14,School District,9,Marathon,3304,,[All],No,Marathon City,[Districtwide],Composite,Not benchmarked,All Students,All Students,36,23.28,36
+2013-14,School District,8,Marinette,3311,,[All],No,Marinette,[Districtwide],Composite,Not benchmarked,All Students,All Students,62,22.13,62
+2013-14,School District,8,Waupaca,3318,,[All],No,Marion,[Districtwide],Composite,Not benchmarked,All Students,All Students,19,19.84,19
+2013-14,School District,6,Green Lake,3325,,[All],No,Markesan,[Districtwide],Composite,Not benchmarked,All Students,All Students,24,21.67,24
+2013-14,School District,2,Dane,3332,,[All],No,Marshall,[Districtwide],Composite,Not benchmarked,All Students,All Students,50,21.28,50
+2013-14,School District,5,Wood,3339,,[All],No,Marshfield Unified,[Districtwide],Composite,Not benchmarked,All Students,All Students,221,24,221
+2013-14,School District,5,Juneau,3360,,[All],No,Mauston,[Districtwide],Composite,Not benchmarked,All Students,All Students,59,21.49,59
+2013-14,School District,6,Dodge,3367,,[All],No,Mayville,[Districtwide],Composite,Not benchmarked,All Students,All Students,65,21.91,65
+2013-14,School District,2,Dane,3381,,[All],No,McFarland,[Districtwide],Composite,Not benchmarked,All Students,All Students,164,23.34,164
+2013-14,School District,10,Taylor,3409,,[All],No,Medford Area Public,[Districtwide],Composite,Not benchmarked,All Students,All Students,78,22.67,78
+2013-14,School District,12,Ashland,3427,,[All],No,Mellen,[Districtwide],Composite,Not benchmarked,All Students,All Students,9,22.33,9
+2013-14,School District,4,Jackson,3428,,[All],No,Melrose-Mindoro,[Districtwide],Composite,Not benchmarked,All Students,All Students,31,22.58,31
+2013-14,School District,6,Winnebago,3430,,[All],No,Menasha Joint,[Districtwide],Composite,Not benchmarked,All Students,All Students,116,21.59,116
+2013-14,School District,8,Menominee,3434,,[All],No,Menominee Indian,[Districtwide],Composite,Not benchmarked,All Students,All Students,11,17.64,11
+2013-14,School District,1,Waukesha,3437,,[All],No,Menomonee Falls,[Districtwide],Composite,Not benchmarked,All Students,All Students,291,23.67,291
+2013-14,School District,11,Dunn,3444,,[All],No,Menomonie Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,140,21.25,140
+2013-14,School District,1,Ozaukee,3479,,[All],No,Mequon-Thiensville,[Districtwide],Composite,Not benchmarked,All Students,All Students,280,26,280
+2013-14,School District,12,Iron,3484,,[All],No,Mercer,[Districtwide],Composite,*,All Students,[Data Suppressed],*,*,*
+2013-14,School District,9,Lincoln,3500,,[All],No,Merrill Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,150,22.37,150
+2013-14,School District,2,Dane,3549,,[All],No,Middleton-Cross Plains Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,391,25.39,391
+2013-14,School District,2,Rock,3612,,[All],No,Milton,[Districtwide],Composite,Not benchmarked,All Students,All Students,152,22.78,152
+2013-14,School District,1,Milwaukee,3619,,[All],No,Milwaukee,[Districtwide],Composite,Not benchmarked,All Students,All Students,3491,16.06,3491
+2013-14,School District,3,Iowa,3633,,[All],No,Mineral Point Unified,[Districtwide],Composite,Not benchmarked,All Students,All Students,44,22.18,44
+2013-14,School District,7,Manitowoc,3661,,[All],No,Mishicot,[Districtwide],Composite,Not benchmarked,All Students,All Students,46,22.54,46
+2013-14,School District,10,Buffalo,3668,,[All],No,Mondovi,[Districtwide],Composite,Not benchmarked,All Students,All Students,48,23.04,48
+2013-14,School District,2,Dane,3675,,[All],No,Monona Grove,[Districtwide],Composite,Not benchmarked,All Students,All Students,223,22.27,223
+2013-14,School District,2,Green,3682,,[All],No,Monroe,[Districtwide],Composite,Not benchmarked,All Students,All Students,109,22.97,109
+2013-14,School District,5,Marquette,3689,,[All],No,Montello,[Districtwide],Composite,Not benchmarked,All Students,All Students,21,22.76,21
+2013-14,School District,2,Green,3696,,[All],No,Monticello,[Districtwide],Composite,Not benchmarked,All Students,All Students,16,22.5,16
+2013-14,School District,9,Marathon,3787,,[All],No,Mosinee,[Districtwide],Composite,Not benchmarked,All Students,All Students,79,21.87,79
+2013-14,School District,2,Dane,3794,,[All],No,Mount Horeb Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,117,23.26,117
+2013-14,School District,1,Waukesha,3822,,[All],No,Mukwonago,[Districtwide],Composite,Not benchmarked,All Students,All Students,301,23.72,301
+2013-14,School District,1,Waukesha,3857,,[All],No,Muskego-Norway,[Districtwide],Composite,Not benchmarked,All Students,All Students,320,23.79,320
+2013-14,School District,5,Juneau,3871,,[All],No,Necedah Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,31,21.61,31
+2013-14,School District,6,Winnebago,3892,,[All],No,Neenah Joint,[Districtwide],Composite,Not benchmarked,All Students,All Students,322,24.06,322
+2013-14,School District,10,Clark,3899,,[All],No,Neillsville,[Districtwide],Composite,Not benchmarked,All Students,All Students,34,21.59,34
+2013-14,School District,5,Wood,3906,,[All],No,Nekoosa,[Districtwide],Composite,Not benchmarked,All Students,All Students,62,22.79,62
+2013-14,School District,10,Chippewa,3920,,[All],No,New Auburn,[Districtwide],Composite,Not benchmarked,All Students,All Students,17,20.29,17
+2013-14,School District,1,Waukesha,3925,,[All],No,New Berlin,[Districtwide],Composite,Not benchmarked,All Students,All Students,338,24.54,338
+2013-14,School District,2,Green,3934,,[All],No,New Glarus,[Districtwide],Composite,Not benchmarked,All Students,All Students,50,23.1,50
+2013-14,School District,7,Calumet,3941,,[All],No,New Holstein,[Districtwide],Composite,Not benchmarked,All Students,All Students,61,21.87,61
+2013-14,School District,5,Juneau,3948,,[All],No,New Lisbon,[Districtwide],Composite,Not benchmarked,All Students,All Students,22,22.18,22
+2013-14,School District,6,Waupaca,3955,,[All],No,New London,[Districtwide],Composite,Not benchmarked,All Students,All Students,114,21.67,114
+2013-14,School District,11,Saint Croix,3962,,[All],No,New Richmond,[Districtwide],Composite,Not benchmarked,All Students,All Students,109,23.55,109
+2013-14,School District,8,Marinette,3969,,[All],No,Niagara,[Districtwide],Composite,Not benchmarked,All Students,All Students,23,20.83,23
+2013-14,School District,1,Milwaukee,2177,,[All],No,Nicolet UHS,[Districtwide],Composite,Not benchmarked,All Students,All Students,222,24.53,222
+2013-14,School District,1,Waukesha,3976,,[All],No,Norris,[Districtwide],Composite,Not benchmarked,All Students,All Students,6,14,6
+2013-14,School District,3,Crawford,2016,,[All],No,North Crawford,[Districtwide],Composite,Not benchmarked,All Students,All Students,21,20.33,21
+2013-14,School District,6,Fond du Lac,3983,,[All],No,North Fond du Lac,[Districtwide],Composite,Not benchmarked,All Students,All Students,48,21.33,48
+2013-14,School District,1,Ozaukee,1945,,[All],No,Northern Ozaukee,[Districtwide],Composite,Not benchmarked,All Students,All Students,55,22.2,55
+2013-14,School District,9,Vilas,1526,,[All],No,Northland Pines,[Districtwide],Composite,Not benchmarked,All Students,All Students,66,22.36,66
+2013-14,School District,12,Washburn,3654,,[All],No,Northwood,[Districtwide],Composite,Not benchmarked,All Students,All Students,23,20.52,23
+2013-14,School District,4,Monroe,3990,,[All],No,Norwalk-Ontario-Wilton,[Districtwide],Composite,Not benchmarked,All Students,All Students,26,20.62,26
+2013-14,School District,1,Milwaukee,4018,,[All],No,Oak Creek-Franklin Joint,[Districtwide],Composite,Not benchmarked,All Students,All Students,328,21.87,328
+2013-14,School District,6,Fond du Lac,4025,,[All],No,Oakfield,[Districtwide],Composite,Not benchmarked,All Students,All Students,34,19.24,34
+2013-14,School District,1,Waukesha,4060,,[All],No,Oconomowoc Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,268,23.55,268
+2013-14,School District,8,Oconto,4074,,[All],No,Oconto Falls Public,[Districtwide],Composite,Not benchmarked,All Students,All Students,68,22.84,68
+2013-14,School District,8,Oconto,4067,,[All],No,Oconto Unified,[Districtwide],Composite,Not benchmarked,All Students,All Students,39,21.54,39
+2013-14,School District,6,Winnebago,4088,,[All],No,Omro,[Districtwide],Composite,Not benchmarked,All Students,All Students,58,21.81,58
+2013-14,School District,4,La Crosse,4095,,[All],No,Onalaska,[Districtwide],Composite,Not benchmarked,All Students,All Students,165,24.08,165
+2013-14,School District,7,Sheboygan,4137,,[All],No,Oostburg,[Districtwide],Composite,Not benchmarked,All Students,All Students,76,22.83,76
+2013-14,School District,2,Dane,4144,,[All],No,Oregon,[Districtwide],Composite,Not benchmarked,All Students,All Students,199,24.69,199
+2013-14,School District,11,Polk,4165,,[All],No,Osceola,[Districtwide],Composite,Not benchmarked,All Students,All Students,105,22.12,105
+2013-14,School District,6,Winnebago,4179,,[All],No,Oshkosh Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,397,22.2,397
+2013-14,School District,10,Trempealeau,4186,,[All],No,Osseo-Fairchild,[Districtwide],Composite,Not benchmarked,All Students,All Students,45,21.6,45
+2013-14,School District,10,Clark,4207,,[All],No,Owen-Withee,[Districtwide],Composite,Not benchmarked,All Students,All Students,16,22.94,16
+2013-14,School District,2,Jefferson,4221,,[All],No,Palmyra-Eagle Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,39,21.18,39
+2013-14,School District,5,Columbia,4228,,[All],No,Pardeeville Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,31,21.35,31
+2013-14,School District,2,Rock,4151,,[All],No,Parkview,[Districtwide],Composite,Not benchmarked,All Students,All Students,43,21.37,43
+2013-14,School District,3,Lafayette,490,,[All],No,Pecatonica Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,9,20.11,9
+2013-14,School District,11,Pepin,4270,,[All],No,Pepin Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,9,23.56,9
+2013-14,School District,8,Marinette,4305,,[All],No,Peshtigo,[Districtwide],Composite,Not benchmarked,All Students,All Students,55,22.24,55
+2013-14,School District,1,Waukesha,4312,,[All],No,Pewaukee,[Districtwide],Composite,Not benchmarked,All Students,All Students,178,24.45,178
+2013-14,School District,9,Vilas,4330,,[All],No,Phelps,[Districtwide],Composite,Not benchmarked,All Students,All Students,6,21.33,6
+2013-14,School District,12,Price,4347,,[All],No,Phillips,[Districtwide],Composite,Not benchmarked,All Students,All Students,37,22.81,37
+2013-14,School District,5,Wood,4368,,[All],No,Pittsville,[Districtwide],Composite,Not benchmarked,All Students,All Students,31,23.61,31
+2013-14,School District,3,Grant,4389,,[All],No,Platteville,[Districtwide],Composite,Not benchmarked,All Students,All Students,84,23.89,84
+2013-14,School District,11,Pierce,4459,,[All],No,Plum City,[Districtwide],Composite,Not benchmarked,All Students,All Students,8,22.38,8
+2013-14,School District,7,Sheboygan,4473,,[All],No,Plymouth Joint,[Districtwide],Composite,Not benchmarked,All Students,All Students,138,23.41,138
+2013-14,School District,5,Wood,4508,,[All],No,Port Edwards,[Districtwide],Composite,Not benchmarked,All Students,All Students,19,21.74,19
+2013-14,School District,1,Ozaukee,4515,,[All],No,Port Washington-Saukville,[Districtwide],Composite,Not benchmarked,All Students,All Students,158,23.59,158
+2013-14,School District,5,Columbia,4501,,[All],No,Portage Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,107,23.5,107
+2013-14,School District,3,Grant,4529,,[All],No,Potosi,[Districtwide],Composite,Not benchmarked,All Students,All Students,26,21.88,26
+2013-14,School District,5,Columbia,4536,,[All],No,Poynette,[Districtwide],Composite,Not benchmarked,All Students,All Students,39,21.36,39
+2013-14,School District,3,Crawford,4543,,[All],No,Prairie du Chien Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,95,21.31,95
+2013-14,School District,11,Barron,4557,,[All],No,Prairie Farm Public,[Districtwide],Composite,Not benchmarked,All Students,All Students,21,21.62,21
+2013-14,School District,9,Price,4571,,[All],No,Prentice,[Districtwide],Composite,Not benchmarked,All Students,All Students,27,21.89,27
+2013-14,School District,11,Pierce,4578,,[All],No,Prescott,[Districtwide],Composite,Not benchmarked,All Students,All Students,64,21.73,64
+2013-14,School District,5,Green Lake,4606,,[All],No,Princeton,[Districtwide],Composite,Not benchmarked,All Students,All Students,13,24.38,13
+2013-14,School District,7,Brown,4613,,[All],No,Pulaski Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,178,23.24,178
+2013-14,School District,1,Racine,4620,,[All],No,Racine Unified,[Districtwide],Composite,Not benchmarked,All Students,All Students,773,20.17,773
+2013-14,School District,5,Columbia,4634,,[All],No,Randolph,[Districtwide],Composite,Not benchmarked,All Students,All Students,26,23.38,26
+2013-14,School District,7,Sheboygan,4641,,[All],No,Random Lake,[Districtwide],Composite,Not benchmarked,All Students,All Students,43,22.47,43
+2013-14,School District,5,Sauk,4753,,[All],No,Reedsburg,[Districtwide],Composite,Not benchmarked,All Students,All Students,102,22.32,102
+2013-14,School District,7,Manitowoc,4760,,[All],No,Reedsville,[Districtwide],Composite,Not benchmarked,All Students,All Students,30,22.2,30
+2013-14,School District,9,Oneida,4781,,[All],No,Rhinelander,[Districtwide],Composite,Not benchmarked,All Students,All Students,96,23.46,96
+2013-14,School District,9,Taylor,4795,,[All],No,Rib Lake,[Districtwide],Composite,Not benchmarked,All Students,All Students,19,21.53,19
+2013-14,School District,11,Barron,4802,,[All],No,Rice Lake Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,126,23.42,126
+2013-14,School District,3,Richland,4851,,[All],No,Richland,[Districtwide],Composite,Not benchmarked,All Students,All Students,43,22.12,43
+2013-14,School District,5,Columbia,4865,,[All],No,Rio Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,28,21.64,28
+2013-14,School District,6,Fond du Lac,4872,,[All],No,Ripon Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,91,22.99,91
+2013-14,School District,11,Pierce,4893,,[All],No,River Falls,[Districtwide],Composite,Not benchmarked,All Students,All Students,222,22.97,222
+2013-14,School District,3,Grant,4904,,[All],No,River Ridge,[Districtwide],Composite,Not benchmarked,All Students,All Students,19,23,19
+2013-14,School District,3,Sauk,5523,,[All],No,River Valley,[Districtwide],Composite,Not benchmarked,All Students,All Students,71,24.18,71
+2013-14,School District,3,Grant,3850,,[All],No,Riverdale,[Districtwide],Composite,Not benchmarked,All Students,All Students,34,19.88,34
+2013-14,School District,6,Fond du Lac,4956,,[All],No,Rosendale-Brandon,[Districtwide],Composite,Not benchmarked,All Students,All Students,43,23.6,43
+2013-14,School District,5,Portage,4963,,[All],No,Rosholt,[Districtwide],Composite,Not benchmarked,All Students,All Students,32,21.94,32
+2013-14,School District,4,Juneau,1673,,[All],No,Royall,[Districtwide],Composite,Not benchmarked,All Students,All Students,20,21.75,20
+2013-14,School District,11,Saint Croix,2422,,[All],No,Saint Croix Central,[Districtwide],Composite,Not benchmarked,All Students,All Students,62,22.82,62
+2013-14,School District,11,Polk,5019,,[All],No,Saint Croix Falls,[Districtwide],Composite,Not benchmarked,All Students,All Students,62,21.32,62
+2013-14,School District,1,Milwaukee,5026,,[All],No,Saint Francis,[Districtwide],Composite,Not benchmarked,All Students,All Students,87,20.45,87
+2013-14,School District,5,Sauk,5100,,[All],No,Sauk Prairie,[Districtwide],Composite,Not benchmarked,All Students,All Students,132,23.3,132
+2013-14,School District,3,Crawford,5124,,[All],No,Seneca,[Districtwide],Composite,Not benchmarked,All Students,All Students,11,18.91,11
+2013-14,School District,7,Door,5130,,[All],No,Sevastopol,[Districtwide],Composite,Not benchmarked,All Students,All Students,20,23.6,20
+2013-14,School District,7,Outagamie,5138,,[All],No,Seymour Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,91,22.1,91
+2013-14,School District,8,Shawano,5264,,[All],No,Shawano,[Districtwide],Composite,Not benchmarked,All Students,All Students,98,22.34,98
+2013-14,School District,7,Sheboygan,5271,,[All],No,Sheboygan Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,425,21.48,425
+2013-14,School District,7,Sheboygan,5278,,[All],No,Sheboygan Falls,[Districtwide],Composite,Not benchmarked,All Students,All Students,101,22.35,101
+2013-14,School District,11,Washburn,5306,,[All],No,Shell Lake,[Districtwide],Composite,Not benchmarked,All Students,All Students,28,21.29,28
+2013-14,School District,6,Outagamie,5348,,[All],No,Shiocton,[Districtwide],Composite,Not benchmarked,All Students,All Students,31,22.06,31
+2013-14,School District,1,Milwaukee,5355,,[All],No,Shorewood,[Districtwide],Composite,Not benchmarked,All Students,All Students,153,24.35,153
+2013-14,School District,3,Lafayette,5362,,[All],No,Shullsburg,[Districtwide],Composite,Not benchmarked,All Students,All Students,11,21,11
+2013-14,School District,11,Burnett,5376,,[All],No,Siren,[Districtwide],Composite,Not benchmarked,All Students,All Students,18,20.72,18
+2013-14,School District,6,Washington,5390,,[All],No,Slinger,[Districtwide],Composite,Not benchmarked,All Students,All Students,194,23.64,194
+2013-14,School District,12,Douglas,5397,,[All],No,Solon Springs,[Districtwide],Composite,Not benchmarked,All Students,All Students,21,21.14,21
+2013-14,School District,11,Saint Croix,5432,,[All],No,Somerset,[Districtwide],Composite,Not benchmarked,All Students,All Students,80,21.8,80
+2013-14,School District,1,Milwaukee,5439,,[All],No,South Milwaukee,[Districtwide],Composite,Not benchmarked,All Students,All Students,181,21.3,181
+2013-14,School District,12,Bayfield,4522,,[All],No,South Shore,[Districtwide],Composite,Not benchmarked,All Students,All Students,9,24.22,9
+2013-14,School District,7,Door,5457,,[All],No,Southern Door County,[Districtwide],Composite,Not benchmarked,All Students,All Students,49,22.98,49
+2013-14,School District,3,Grant,2485,,[All],No,Southwestern Wisconsin,[Districtwide],Composite,Not benchmarked,All Students,All Students,17,21.53,17
+2013-14,School District,4,Monroe,5460,,[All],No,Sparta Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,75,22.71,75
+2013-14,School District,10,Marathon,5467,,[All],No,Spencer,[Districtwide],Composite,Not benchmarked,All Students,All Students,33,22.24,33
+2013-14,School District,11,Washburn,5474,,[All],No,Spooner Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,55,22.71,55
+2013-14,School District,11,Pierce,5586,,[All],No,Spring Valley,[Districtwide],Composite,Not benchmarked,All Students,All Students,29,23.07,29
+2013-14,School District,10,Chippewa,5593,,[All],No,Stanley-Boyd Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,50,21.26,50
+2013-14,School District,5,Portage,5607,,[All],No,Stevens Point Area Public,[Districtwide],Composite,Not benchmarked,All Students,All Students,346,22.94,346
+2013-14,School District,7,Calumet,5614,,[All],No,Stockbridge,[Districtwide],Composite,Not benchmarked,All Students,All Students,10,21.5,10
+2013-14,School District,2,Dane,5621,,[All],No,Stoughton Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,173,23.77,173
+2013-14,School District,9,Marathon,5628,,[All],No,Stratford,[Districtwide],Composite,Not benchmarked,All Students,All Students,52,21.08,52
+2013-14,School District,7,Door,5642,,[All],No,Sturgeon Bay,[Districtwide],Composite,Not benchmarked,All Students,All Students,67,22.24,67
+2013-14,School District,2,Dane,5656,,[All],No,Sun Prairie Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,354,23.47,354
+2013-14,School District,12,Douglas,5663,,[All],No,Superior,[Districtwide],Composite,Not benchmarked,All Students,All Students,174,22.54,174
+2013-14,School District,8,Oconto,5670,,[All],No,Suring Public,[Districtwide],Composite,Not benchmarked,All Students,All Students,14,20.36,14
+2013-14,School District,10,Clark,5726,,[All],No,Thorp,[Districtwide],Composite,Not benchmarked,All Students,All Students,27,21.93,27
+2013-14,School District,9,Oneida,5733,,[All],No,Three Lakes,[Districtwide],Composite,Not benchmarked,All Students,All Students,30,22.97,30
+2013-14,School District,8,Shawano,5740,,[All],No,Tigerton,[Districtwide],Composite,Not benchmarked,All Students,All Students,9,19.89,9
+2013-14,School District,4,Monroe,5747,,[All],No,Tomah Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,128,21.54,128
+2013-14,School District,9,Lincoln,5754,,[All],No,Tomahawk,[Districtwide],Composite,Not benchmarked,All Students,All Students,58,21.64,58
+2013-14,School District,5,Portage,126,,[All],No,Tomorrow River,[Districtwide],Composite,Not benchmarked,All Students,All Students,41,23.49,41
+2013-14,School District,5,Waushara,4375,,[All],No,Tri-County Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,29,20.83,29
+2013-14,School District,11,Barron,5810,,[All],No,Turtle Lake,[Districtwide],Composite,Not benchmarked,All Students,All Students,19,23.58,19
+2013-14,School District,7,Manitowoc,5824,,[All],No,Two Rivers Public,[Districtwide],Composite,Not benchmarked,All Students,All Students,58,22.24,58
+2013-14,School District,2,Racine,5852,,[All],No,Union Grove UHS,[Districtwide],Composite,Not benchmarked,All Students,All Students,156,21.81,156
+2013-14,School District,11,Polk,238,,[All],No,Unity,[Districtwide],Composite,Not benchmarked,All Students,All Students,44,21.11,44
+2013-14,School District,7,Manitowoc,5866,,[All],No,Valders Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,59,22.8,59
+2013-14,School District,2,Dane,5901,,[All],No,Verona Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,296,24.46,296
+2013-14,School District,4,Vernon,5985,,[All],No,Viroqua Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,61,23.18,61
+2013-14,School District,8,Forest,5992,,[All],No,Wabeno Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,16,20.94,16
+2013-14,School District,12,Bayfield,6027,,[All],No,Washburn,[Districtwide],Composite,Not benchmarked,All Students,All Students,24,21.96,24
+2013-14,School District,7,Door,6069,,[All],No,Washington,[Districtwide],Composite,*,All Students,[Data Suppressed],*,*,*
+2013-14,School District,2,Racine,6083,,[All],No,Waterford UHS,[Districtwide],Composite,Not benchmarked,All Students,All Students,173,22.92,173
+2013-14,School District,2,Jefferson,6118,,[All],No,Waterloo,[Districtwide],Composite,Not benchmarked,All Students,All Students,39,21.85,39
+2013-14,School District,2,Jefferson,6125,,[All],No,Watertown Unified,[Districtwide],Composite,Not benchmarked,All Students,All Students,153,22.07,153
+2013-14,School District,1,Waukesha,6174,,[All],No,Waukesha,[Districtwide],Composite,Not benchmarked,All Students,All Students,690,22.42,690
+2013-14,School District,2,Dane,6181,,[All],No,Waunakee Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,247,25.32,247
+2013-14,School District,5,Waupaca,6195,,[All],No,Waupaca,[Districtwide],Composite,Not benchmarked,All Students,All Students,124,22,124
+2013-14,School District,6,Fond du Lac,6216,,[All],No,Waupun,[Districtwide],Composite,Not benchmarked,All Students,All Students,67,20.88,67
+2013-14,School District,9,Marathon,6223,,[All],No,Wausau,[Districtwide],Composite,Not benchmarked,All Students,All Students,417,21.8,417
+2013-14,School District,8,Marinette,6230,,[All],No,Wausaukee,[Districtwide],Composite,Not benchmarked,All Students,All Students,23,22.35,23
+2013-14,School District,5,Waushara,6237,,[All],No,Wautoma Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,38,21.03,38
+2013-14,School District,1,Milwaukee,6244,,[All],No,Wauwatosa,[Districtwide],Composite,Not benchmarked,All Students,All Students,432,23.41,432
+2013-14,School District,3,Crawford,6251,,[All],No,Wauzeka-Steuben,[Districtwide],Composite,Not benchmarked,All Students,All Students,12,21.08,12
+2013-14,School District,11,Burnett,6293,,[All],No,Webster,[Districtwide],Composite,Not benchmarked,All Students,All Students,34,21,34
+2013-14,School District,1,Milwaukee,6300,,[All],No,West Allis-West Milwaukee,[Districtwide],Composite,Not benchmarked,All Students,All Students,423,20.39,423
+2013-14,School District,6,Washington,6307,,[All],No,West Bend,[Districtwide],Composite,Not benchmarked,All Students,All Students,515,21.33,515
+2013-14,School District,7,Brown,6328,,[All],No,West De Pere,[Districtwide],Composite,Not benchmarked,All Students,All Students,138,23.46,138
+2013-14,School District,4,La Crosse,6370,,[All],No,West Salem,[Districtwide],Composite,Not benchmarked,All Students,All Students,90,22.94,90
+2013-14,School District,4,Vernon,6321,,[All],No,Westby Area,[Districtwide],Composite,Not benchmarked,All Students,All Students,48,22.21,48
+2013-14,School District,5,Marquette,6335,,[All],No,Westfield,[Districtwide],Composite,Not benchmarked,All Students,All Students,41,23,41
+2013-14,School District,3,Sauk,6354,,[All],No,Weston,[Districtwide],Composite,Not benchmarked,All Students,All Students,12,21,12
+2013-14,School District,6,Waupaca,6384,,[All],No,Weyauwega-Fremont,[Districtwide],Composite,Not benchmarked,All Students,All Students,47,22.28,47
+2013-14,School District,8,Langlade,6440,,[All],No,White Lake,[Districtwide],Composite,Not benchmarked,All Students,All Students,12,17.17,12
+2013-14,School District,1,Milwaukee,6419,,[All],No,Whitefish Bay,[Districtwide],Composite,Not benchmarked,All Students,All Students,207,26.72,207
+2013-14,School District,4,Trempealeau,6426,,[All],No,Whitehall,[Districtwide],Composite,Not benchmarked,All Students,All Students,34,22,34
+2013-14,School District,2,Walworth,6461,,[All],No,Whitewater Unified,[Districtwide],Composite,Not benchmarked,All Students,All Students,66,23.79,66
+2013-14,School District,1,Milwaukee,6470,,[All],No,Whitnall,[Districtwide],Composite,Not benchmarked,All Students,All Students,150,24.07,150
+2013-14,School District,5,Waushara,6475,,[All],No,Wild Rose,[Districtwide],Composite,Not benchmarked,All Students,All Students,32,23,32
+2013-14,School District,2,Walworth,6482,,[All],No,Williams Bay,[Districtwide],Composite,Not benchmarked,All Students,All Students,26,26.12,26
+2013-14,School District,2,Kenosha,6545,,[All],No,Wilmot UHS,[Districtwide],Composite,Not benchmarked,All Students,All Students,148,23.09,148
+2013-14,School District,6,Winnebago,6608,,[All],No,Winneconne Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,83,22.02,83
+2013-14,School District,12,Sawyer,6615,,[All],No,Winter,[Districtwide],Composite,Not benchmarked,All Students,All Students,13,19.62,13
+2013-14,School District,5,Sauk,6678,,[All],No,Wisconsin Dells,[Districtwide],Composite,Not benchmarked,All Students,All Students,58,21.93,58
+2013-14,School District,2,Dane,469,,[All],No,Wisconsin Heights,[Districtwide],Composite,Not benchmarked,All Students,All Students,43,23.23,43
+2013-14,School District,5,Wood,6685,,[All],No,Wisconsin Rapids,[Districtwide],Composite,Not benchmarked,All Students,All Students,224,22.14,224
+2013-14,School District,8,Shawano,6692,,[All],No,Wittenberg-Birnamwood,[Districtwide],Composite,Not benchmarked,All Students,All Students,64,21.56,64
+2013-14,School District,4,Juneau,6713,,[All],No,Wonewoc-Union Center,[Districtwide],Composite,Not benchmarked,All Students,All Students,15,21.93,15
+2013-14,School District,7,Brown,6734,,[All],No,Wrightstown Community,[Districtwide],Composite,Not benchmarked,All Students,All Students,78,22.83,78
