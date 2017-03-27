@@ -171,7 +171,7 @@ spplot(district_map, "AVERAGE_SCORE", col.regions = pal, at = breaks, main = "Wi
 
 ![](map_tutorial_files/figure-html/unnamed-chunk-13-1.png)<!-- -->
 
-Using fixed breaks, it is easy to see the districts with the very highest and lowest scores, but it is a little difficult to see trends. It is useful to segment the data in a differnt way which may provide more insight.
+Using fixed breaks, it is easy to see the districts with the very highest and lowest scores, but it is a little difficult to see trends. I would like to segment the data in a different way which may provide more insight.
 
 So in addition to splitting score by fixed intervals, I would also like to plot scores by quantiles. I will use five quantiles and use a different color pallete.
 
