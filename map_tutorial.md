@@ -203,9 +203,9 @@ spplot(district_map, "AVERAGE_SCORE", col.regions = pal, at = breaks, main = "Wi
 
 ![](map_tutorial_files/figure-html/unnamed-chunk-16-1.png)<!-- -->
 
-Splitting scores into five quantiles is informative, but most scores will be around the national composite average, 21, so the first and fifth quantile will incorporate a much largerspan of scores than the middle three quantiles as ACT scores have normal distribution.
+Splitting scores into five quantiles is informative, but most scores will be around the national composite average, 21, so the first and fifth quantile will incorporate a much larger span of scores than the middle three quantiles as ACT scores have a normal distribution.
 
-There are now some score trends evident. It appears the districts in the suburbs around Madison and Milwaukee perform have the highest average score, while there are cluster of districs in Northeast and Southwest Wisconsin which contain average comprehensive scores in the first quantile.
+There are now some score trends evident. It appears the districts in the suburbs around Madison and Milwaukee have the highest average score, while there are cluster of districs in Northeast and Southwest Wisconsin which contain average comprehensive scores in the first quantile.
 
 #Conclusion
 
