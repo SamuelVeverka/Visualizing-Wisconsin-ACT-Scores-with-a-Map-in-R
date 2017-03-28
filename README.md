@@ -4,7 +4,7 @@ Sam Veverka
 
 
 
-#Introduction
+## Introduction
 This script is an attempt to utilize R to display spatial data. I will be using data from the Wisconsin Department of Public Instruction. To create the map, I will use the Wisconsin school district geospatial files (GIS Shapefiles) which are posted on the DPIs website. 
 
 The GIS shapefiles can be found at:
@@ -14,7 +14,7 @@ I will be mapping district comprehensive ACT scores, which can be found on the D
 
 I used Robin Lovelace's "Introduction to visualising spatial data in R" as a reference for this project. I recommend it for anyone looking for a comprehensive guide to creating maps in R. https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf
 
-#Set Working Directory and Load Map Data
+## Set Working Directory and Load Map Data
 
 I load the libraries necessary to load GIS data. I then use the readOGR function to load the data from the set of GIS files.
 
@@ -60,7 +60,7 @@ head(district_map$DIST_CODE)
 ```
 
 
-#Load ACT Data and Merge to Map Data
+## Load ACT Data and Merge to Map Data
 
 I will now load the the district average comprehensive ACT scores for this exercise.
 
@@ -135,7 +135,7 @@ district_map$AVERAGE_SCORE[district_map$AVERAGE_SCORE == "*"] <- NA
 district_map$AVERAGE_SCORE <- as.numeric(district_map$AVERAGE_SCORE)
 ```
 
-#Plot Map
+## Plot Map
 
 The map will need a way to separate data into segments or intervals, so that data can be plotted with color in a meaningful way. I will start with perhaps the most straightforward method, assigning breaks at fixed intervals.
 
@@ -207,7 +207,7 @@ Splitting scores into five quantiles is informative, but most scores will be aro
 
 There are now some score trends evident. It appears the districts in the suburbs around Madison and Milwaukee have the highest average score, while there are cluster of districs in Northeast and Southwest Wisconsin which contain average comprehensive scores in the first quantile.
 
-#Conclusion
+## Conclusion
 
 Although the map with fixed breaks displays the districts with highest and lowest comprehensive ACT scores, it appears that the map displaying quantiles is more informative, as it displays ACT performance across space better.
 
