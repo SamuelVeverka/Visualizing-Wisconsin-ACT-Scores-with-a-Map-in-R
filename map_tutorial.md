@@ -5,18 +5,18 @@ Sam Veverka
 
 
 #Introduction
-This script is an attempt to utilize R to display spatial data. I will be using data from the Wisconsin Department of Public Instruction. To create the map, I will use the Wisconsin school district geospatial files (GIS Shapefiles) which are posted on the DPIs website. 
+This script is an attempt to utilize R to display spatial data. I will be using data from the Wisconsin Department of Public Instruction. To create the map, I will use the Wisconsin school district geospatial files (GIS Shapefiles) which are posted on the DPI's website. 
 
 The GIS shapefiles can be found at:
 https://dpi.wi.gov/gis/school-district-boundaries/data
 
 I will be mapping district comprehensive ACT scores, which can be found on the DPI's website as well: https://dpi.wi.gov/wisedash/download-files/type?field_wisedash_upload_type_value=ACT&field_wisedash_data_view_value=All
 
-I used Robin Lovelace's "Introduction to visualising spatial data in R" as a reference for this project. I recommend it for anyone looking for a comprehensive guide to creating maps in R. https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf
+I used Robin Lovelace's "Introduction to visualising spatial data in R" as a reference for this project. I recommend it to anyone looking for a comprehensive guide to creating maps in R. https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf
 
 #Set Working Directory and Load Map Data
 
-I load the libraries necessary to load GIS data. I then use the readOGR function to load the data from the set of GIS files.
+I load the libraries necessary to import GIS data. I then use the readOGR function to load the data from the set of GIS files.
 
 ```r
 setwd("C:\\Users\\Samuel\\Documents\\R\\Excel Practice Sheets\\maps_tutorial\\WPI")
@@ -27,7 +27,7 @@ district_map <- readOGR(dsn = ".", layer = "tl_2013_55_unsd_scsd_harn")
 ```
 
 
-It's a good idea to check the map data and make sure that the files are complete and that you have a good understanding of what different variables are included. If you are need more information than the variable names, I recommend opening the GIS files in a GIS software package, some of which are free online. 
+It's a good idea to check the map data and make sure that the files are complete and also that you have a good understanding of which variables are included.
 
 
 ```r
@@ -48,7 +48,11 @@ plot(district_map)
 
 ![](map_tutorial_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
 
-The map data includes the school district codes. The codes could be useful as they could tie the information between the map data with any data sets one would like to plot.
+It appears the map data is complete and functional. 
+
+If you are need more information than the variable names, I recommend opening the GIS files in a GIS software package, some of which are free online. 
+
+The map data includes the school district codes. The codes could be useful as they could tie map data with any data sets one would like to plot.
 
 
 ```r
@@ -95,7 +99,7 @@ summary(matches)
 ```
 The summary indicates that all district codes match between the data sets.
 
-Use dplyr to merge ACT data to map the data.
+Use dplyr to merge ACT data to the map data.
 
 ```r
 library(dplyr)
@@ -127,7 +131,7 @@ names(district_map)
 district_map$AVERAGE_SCORE
 ```
 
-The data appears to have merged correctly. However, there are missing ACT scores, which are marked with asterisks. We will have to impute values, or in this case, NA values. NA values are preferred to imputed values, as the plot is purely descriptive.
+The data appears to have merged correctly. However, there are missing ACT scores, which are marked with asterisks. We will have to impute values. In this case, I will impute NA values. NA values are preferred to imputed numerical values as the plot is purely descriptive. Imputed numerical values may have be needed if I was predicting a variable, but would just give an inaccurate plot in this case.
 
 
 ```r
@@ -137,9 +141,9 @@ district_map$AVERAGE_SCORE <- as.numeric(district_map$AVERAGE_SCORE)
 
 #Plot Map
 
-The map will need a way to separate data into segments or intervals, so that data can be plotted with color in a meaningful way. I will start with perhaps the most straightforward method, assigning breaks at fixed intervals.
+One needs to separate data into segments or intervals, so that data can be plotted with color in a meaningful way. I will start with perhaps the most straightforward method, assigning breaks in the data at fixed intervals.
 
-I will use classInt to form intervals to create breaks from.
+I will use classInt to form intervals to create breaks from. Starting at 14, I will separate ACT scores at every 2 points.
 
 
 ```r
@@ -149,7 +153,7 @@ breaks_quant <- classIntervals(district_map$AVERAGE_SCORE, n = 8, style = "fixed
 breaks <- breaks_quant$brks
 ```
 
-Also, I will use RColorBrewer to generate the color pallete for the plot.
+I will use RColorBrewer to generate the color pallete for the plot.
 
 ```r
 library(RColorBrewer)
@@ -171,9 +175,9 @@ spplot(district_map, "AVERAGE_SCORE", col.regions = pal, at = breaks, main = "Wi
 
 ![](map_tutorial_files/figure-html/unnamed-chunk-13-1.png)<!-- -->
 
-Using fixed breaks, it is easy to see the districts with the very highest and lowest scores, but it is a little difficult to see trends. I would like to segment the data in a different way which may provide more insight.
+Using fixed breaks, it is easy to see the districts with the very highest and lowest scores, but it is a little difficult to see trends. I will segment the data in a different way which may provide more insight.
 
-So in addition to splitting score by fixed intervals, I would also like to plot scores by quantiles. I will use five quantiles and use a different color pallete.
+So in addition to splitting scores by fixed intervals, I will plot the scores by quantiles. I will use five quantiles called quintiles and use a different color pallete.
 
 ```r
 breaks_quant <- classIntervals(district_map$AVERAGE_SCORE, n = 5, style = "quantile")
@@ -203,12 +207,12 @@ spplot(district_map, "AVERAGE_SCORE", col.regions = pal, at = breaks, main = "Wi
 
 ![](map_tutorial_files/figure-html/unnamed-chunk-16-1.png)<!-- -->
 
-Splitting scores into five quantiles is informative, but most scores will be around the national composite average, 21, so the first and fifth quantile will incorporate a much larger span of scores than the middle three quantiles as ACT scores have a normal distribution.
+Splitting scores into five quantiles is informative, but note that most scores will be around the national composite average, 21. So, the first and fifth quantile will incorporate a much larger span of scores than the middle three quantiles. This will be the case with ACT scores as they are designed to have a normal distribution.
 
-There are now some score trends evident. It appears the districts in the suburbs around Madison and Milwaukee have the highest average score, while there are cluster of districs in Northeast and Southwest Wisconsin which contain average comprehensive scores in the first quantile.
+There are now some score trends evident. It appears the districts in the suburbs around Madison and Milwaukee have the highest average score, while there are cluster of districs in Northeast and Southwest Wisconsin which contain average comprehensive scores in the first quintile.
 
 #Conclusion
 
-Although the map with fixed breaks displays the districts with highest and lowest comprehensive ACT scores, it appears that the map displaying quantiles is more informative, as it displays ACT performance across space better.
+Although the map with fixed breaks displays the districts with highest and lowest comprehensive ACT scores well, it appears that the map splitting average scores into quintiles is more informative as it displays ACT performance across space better.
 
-I do want to note that this exercise was an exploration of plotting map data rather than an analysis. A single map like this only plots one variable and is hence not very insightful. However, the addition of other data plotted in a similar fashion could help analysis, such as plotting socioeconomic background of students and comparing to ACT scoress
+I do want to note that this exercise was an exploration of plotting map data rather than an analysis. A single map like this only plots one variable across space and is hence not really insightful enough to base analysis on. However, the addition of other data plotted in a similar fashion could help analysis, such as plotting socioeconomic background of students and comparing to ACT scores.
