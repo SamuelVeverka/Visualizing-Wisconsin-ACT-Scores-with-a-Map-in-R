@@ -1,0 +1,17 @@
+base
+RWordPress
+knitr
+ggplot2
+ggthemes
+randomForest
+dplyr
+spam
+maps
+fields
+sp
+rgdal
+rgeos
+classInt
+RColorBrewer
+lattice
+latticeExtra
